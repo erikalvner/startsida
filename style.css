@@ -1,0 +1,194 @@
+/* *{
+	margin:0px;
+	padding:0px;
+	background-color:black;
+}
+
+*/
+
+.clr{
+	clear:both;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+
+}
+
+a:hover{
+	color:red;
+}
+
+body{
+	background-image:linear-gradient(130deg, #0d1224, #243b4d);;
+	color:black;
+	font-family:Verdana;
+	font-weight:normal;
+	font-size:15px;
+
+}
+
+table th{
+  padding:15px;
+}
+
+.buttoncontainer{
+	text-align:center;
+
+}
+
+.container{
+	margin-left:auto;
+	margin-right:auto;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+
+
+.container h1{
+	font-size:25px;
+}
+
+.container p{
+	font-size:15px;
+}
+
+
+
+#sidebar{
+  float:right;
+  width:25%;
+  background-color:darkgrey;
+  color:white;
+  padding-left:15px;
+  padding-right:15px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.button {
+  background:none;
+  border: none;
+  color: white;
+  text-align: center;
+  margin:1px
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.08s;
+  cursor: pointer;
+
+}
+
+
+.button1 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/facebook.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+  width:120px;
+  height:120px;
+}
+
+.button2 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/youtube.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button3 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/twitter.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button4 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/telegram.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button5 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/reddit.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button6 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/github.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button7 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/soundcloud.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button8 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/lastfm.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button9 {        /* KVADRATISKA LÃ„NKAR */
+  background-image:url("images/spotify.png");
+  background-size:cover;
+  /*background: url:('/images/facebook.png') no-repeat center;*/
+  color: black;
+
+  width:120px;
+  height:120px;
+}
+
+.button:hover {
+  color: white;
+  width:115px;
+  height:115px;
+}
+
+.button:active {
+  color: white;
+  width:110px;
+  height:110px;
+}
+
