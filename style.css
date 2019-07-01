@@ -23,6 +23,7 @@ a:hover{
 body{
 	background-image:linear-gradient(130deg, #0d1224, #243b4d);
 	background-size:cover;
+	background-repeat: no-repeat;
 	color:black;
 	font-family:Verdana;
 	font-weight:normal;
