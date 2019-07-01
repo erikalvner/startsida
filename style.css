@@ -1,33 +1,38 @@
 /* *{
-	margin:0px;
-	padding:0px;
-	background-color:black;
+  margin:0px;
+  padding:0px;
+  background-color:black;
 }
 
 */
 
 .clr{
-	clear:both;
+  clear:both;
 }
 
 a{
-	text-decoration:none;
-	color:white;
+  text-decoration:none;
+  color:white;
 
 }
 
 a:hover{
-	color:red;
+  color:red;
 }
 
 body{
-	background-image:linear-gradient(130deg, #0d1224, #657d8f);
-	background-size:300vh 300vw;
-	background-repeat: no-repeat;
-	color:black;
-	font-family:Verdana;
-	font-weight:normal;
-	font-size:15px;
+  /*background-image:linear-gradient(130deg, #0d1224, #657d8f);
+  background-size:300vh 300vw;
+  background-repeat: no-repeat;*/
+  background-image:url("images/bgimg.jpg");
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-position: top left;
+  background-size:cover;
+  color:black;
+  font-family:Verdana;
+  font-weight:normal;
+  font-size:15px;
 
 }
 
@@ -35,14 +40,20 @@ table th{
   padding:15px;
 }
 
+table{
+  background-color:rgba(0,0,0,0.6);
+  padding:15px;
+  border-radius: 50px;
+}
+
 .buttoncontainer{
-	text-align:center;
+  text-align:center;
 
 }
 
 .container{
-	margin-left:auto;
-	margin-right:auto;
+  margin-left:auto;
+  margin-right:auto;
   margin-top:100px;
   margin-bottom:100px;
   text-align:center;
@@ -50,11 +61,11 @@ table th{
 
 
 .container h1{
-	font-size:25px;
+  font-size:25px;
 }
 
 .container p{
-	font-size:15px;
+  font-size:15px;
 }
 
 
