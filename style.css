@@ -21,7 +21,8 @@ a:hover{
 }
 
 body{
-	background-image:linear-gradient(130deg, #0d1224, #243b4d);;
+	background-image:linear-gradient(130deg, #0d1224, #243b4d);
+	background-size:cover;
 	color:black;
 	font-family:Verdana;
 	font-weight:normal;
